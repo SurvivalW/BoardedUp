@@ -16,6 +16,15 @@ I made this during my second semester at Wright State University. It was origina
 - Git
 - JDK
 
+### Step one: Clone Repo
+In your terminal, run `git clone git@github.com:SurvivalW/BoardedUp.git`.
+
+### Step two: Compile the code
+`cd` into the project. Go to `BoardedUp/src`. Then run `javac Base/Main.java`.
+
+### Step three: Run your new game!
+run `java Base.Main` Enjoy!!
+
 
 ## Gallery
 <img width="1276" height="949" alt="Screenshot from 2026-02-10 17-59-01" src="https://github.com/user-attachments/assets/3b600ec7-73f0-4523-ac3f-3f961e002fd9" />
@@ -31,5 +40,6 @@ I made this during my second semester at Wright State University. It was origina
 - Finish the window boarding up system.
 - Make it full screen
 - Add power-ups and items
+
 
 
